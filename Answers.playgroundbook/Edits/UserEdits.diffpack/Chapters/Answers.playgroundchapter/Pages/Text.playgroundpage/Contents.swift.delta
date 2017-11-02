@@ -8,10 +8,9 @@
 			<key>ModifiedContent</key>
 			<string>
 // Created on: 20th-Oct-2017
-// Created by: Kay Lin
+// Created by: Younes Elfeitori
 // Created for: ICS3U
-// This program is the UIKit solution for the Address program
-// this will be commented out when code moved to Xcode
+// This program shows name, city and state
 import PlaygroundSupport
 
 
